@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "377553519047",
+    "firebase_url": "https://chatapp-44010.firebaseio.com",
+    "project_id": "chatapp-44010",
+    "storage_bucket": "chatapp-44010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377553519047:android:ca084a18b94dfda5c8d9e2",
+        "android_client_info": {
+          "package_name": "com.sonujaiswal.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377553519047-08rmjvvdktthl36e8gmkfgcetmsag88i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0qZ4E9R40W6C4yBIOTu_mE9eLQzUsPs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377553519047-08rmjvvdktthl36e8gmkfgcetmsag88i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
